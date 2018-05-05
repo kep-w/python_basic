@@ -1,3 +1,3 @@
-# python_basic
-Learn python from scratch
+# Learn python from scratch
+
 All content is based on python version 3.5...
